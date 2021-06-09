@@ -1,3 +1,3 @@
-module github.com/MalukiMuthusi/hello-go
+module github.com/MalukiMuthusi/hellogo
 
 go 1.16
